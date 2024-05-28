@@ -1,3 +1,4 @@
 # Demo
 
-This is demo repositoty !
+This is my first Git Repository 
+Author: shayantis
